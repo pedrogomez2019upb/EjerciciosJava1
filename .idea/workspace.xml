@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a33093ea-480d-40e9-a7b1-146a11770efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios Java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uno.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/once.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+              <caret line="20" column="29" selection-start-line="20" selection-end-line="20" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/doce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -127,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/diez.java" />
         <option value="$PROJECT_DIR$/src/uno.java" />
         <option value="$PROJECT_DIR$/src/once.java" />
+        <option value="$PROJECT_DIR$/src/doce.java" />
       </list>
     </option>
   </component>
@@ -205,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.once">
+  <component name="RunManager" selected="Application.doce">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -233,6 +241,13 @@
     </configuration>
     <configuration name="diez" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="diez" />
+      <module name="Ejercicios Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doce" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="doce" />
       <module name="Ejercicios Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,6 +313,7 @@
       <item itemvalue="Application.nueve" />
       <item itemvalue="Application.diez" />
       <item itemvalue="Application.once" />
+      <item itemvalue="Application.doce" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
@@ -318,12 +334,12 @@
       <updated>1556897769812</updated>
       <workItem from="1556897782556" duration="5389000" />
       <workItem from="1557614016584" duration="279000" />
-      <workItem from="1557680473925" duration="12502000" />
+      <workItem from="1557680473925" duration="13065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18170000" />
+    <option name="totallyTimeSpent" value="18733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cuatro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="12" selection-start-line="20" selection-end-line="20" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/uno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -443,10 +452,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cuatro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-end-line="20" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/once.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+          <caret line="20" column="29" selection-start-line="20" selection-end-line="20" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/doce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
         </state>
       </provider>
     </entry>
