@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a33093ea-480d-40e9-a7b1-146a11770efd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -79,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ocho.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+            <state relative-caret-position="506">
+              <caret line="30" column="19" selection-start-line="30" selection-end-line="30" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nueve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -111,6 +121,8 @@
         <option value="$PROJECT_DIR$/src/seis.java" />
         <option value="$PROJECT_DIR$/src/siete.java" />
         <option value="$PROJECT_DIR$/src/ocho.java" />
+        <option value="$PROJECT_DIR$/src/nuevo.java" />
+        <option value="$PROJECT_DIR$/src/nueve.java" />
       </list>
     </option>
   </component>
@@ -164,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ocho">
+  <component name="RunManager" selected="Application.nueve">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -192,6 +204,13 @@
     </configuration>
     <configuration name="dos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="dos" />
+      <module name="Ejercicios Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nueve" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="nueve" />
       <module name="Ejercicios Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,6 +252,7 @@
       <item itemvalue="Application.seis" />
       <item itemvalue="Application.siete" />
       <item itemvalue="Application.ocho" />
+      <item itemvalue="Application.nueve" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
@@ -253,12 +273,12 @@
       <updated>1556897769812</updated>
       <workItem from="1556897782556" duration="5389000" />
       <workItem from="1557614016584" duration="279000" />
-      <workItem from="1557680473925" duration="5862000" />
+      <workItem from="1557680473925" duration="7546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11530000" />
+    <option name="totallyTimeSpent" value="13214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,7 +308,7 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32936078" />
       <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.35596934" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989059" weight="0.3242059" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -359,8 +379,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ocho.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+        <state relative-caret-position="506">
+          <caret line="30" column="19" selection-start-line="30" selection-end-line="30" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nueve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
         </state>
       </provider>
     </entry>
