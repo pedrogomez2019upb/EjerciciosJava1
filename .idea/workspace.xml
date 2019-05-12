@@ -65,16 +65,25 @@
         <entry file="file://$PROJECT_DIR$/src/seis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-end-line="25" selection-end-column="66" />
+              <caret line="25" column="66" selection-start-line="25" selection-end-line="25" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/siete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="13" selection-start-line="19" selection-end-line="19" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/siete.java">
+        <entry file="file://$PROJECT_DIR$/src/ocho.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+            <state relative-caret-position="438">
+              <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/cinco.java" />
         <option value="$PROJECT_DIR$/src/seis.java" />
         <option value="$PROJECT_DIR$/src/siete.java" />
+        <option value="$PROJECT_DIR$/src/ocho.java" />
       </list>
     </option>
   </component>
@@ -154,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.siete">
+  <component name="RunManager" selected="Application.ocho">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -182,6 +192,13 @@
     </configuration>
     <configuration name="dos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="dos" />
+      <module name="Ejercicios Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ocho" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ocho" />
       <module name="Ejercicios Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,6 +232,7 @@
       <item itemvalue="Application.cinco" />
       <item itemvalue="Application.seis" />
       <item itemvalue="Application.siete" />
+      <item itemvalue="Application.ocho" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
@@ -235,12 +253,12 @@
       <updated>1556897769812</updated>
       <workItem from="1556897782556" duration="5389000" />
       <workItem from="1557614016584" duration="279000" />
-      <workItem from="1557680473925" duration="4747000" />
+      <workItem from="1557680473925" duration="5862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10415000" />
+    <option name="totallyTimeSpent" value="11530000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,14 +346,21 @@
     <entry file="file://$PROJECT_DIR$/src/seis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-end-line="25" selection-end-column="66" />
+          <caret line="25" column="66" selection-start-line="25" selection-end-line="25" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/siete.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+          <caret line="19" column="13" selection-start-line="19" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
         </state>
       </provider>
     </entry>
