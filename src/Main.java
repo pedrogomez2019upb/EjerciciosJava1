@@ -12,4 +12,4 @@ public class Main {
         System.out.println(c);
     }
 }
-//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves
+//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves y Wilson

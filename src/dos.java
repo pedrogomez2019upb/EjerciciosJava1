@@ -17,4 +17,4 @@ public class dos {
         System.out.print("Hola "+nombre);
     }
 }
-//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves
+//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves y Wilson
