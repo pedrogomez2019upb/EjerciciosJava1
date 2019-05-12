@@ -18,4 +18,5 @@ public class doce {
         System.out.println("El promedio de los números fue de: "+promedio+"\n");
         System.out.print("Gracias por utilizar el programa");
     }
-}//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves y Wilson
+}
+//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves y Wilson
