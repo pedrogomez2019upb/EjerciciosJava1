@@ -1,3 +1,6 @@
 public class dos {
-    public static void main(String)
+    public statis void main(String[] args){
+        
+    }
+
 }
