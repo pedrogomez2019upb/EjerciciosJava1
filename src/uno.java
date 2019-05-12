@@ -1,6 +1,6 @@
 //Concadenar dos textos
 //Se crea la clase
-public class Main {
+public class uno {
     //Se pone el estado de la clase
     public static void main(String[] args) {
         // Se crea strings los cuales contienen carácteres
