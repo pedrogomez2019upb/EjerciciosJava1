@@ -21,4 +21,4 @@ public class diecinueve {
         System.out.print("La distancia entre las dos es: "+d+". Gracias por utilizar el programa.");
     }
 }
-//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves y Wilson
+//Desarrollado por Pedro Gómez , Duvan , Sebastián Gelves y Wilson.
