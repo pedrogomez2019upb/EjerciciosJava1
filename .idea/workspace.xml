@@ -17,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/catorce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/diecisiete.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -100,11 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/veinticinco.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-end-line="23" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/veintiseis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -151,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/veintitres.java" />
         <option value="$PROJECT_DIR$/src/veinticuatro.java" />
         <option value="$PROJECT_DIR$/src/veinticinco.java" />
+        <option value="$PROJECT_DIR$/src/veintiseis.java" />
       </list>
     </option>
   </component>
@@ -223,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.veinticinco">
+  <component name="RunManager" selected="Application.veintiseis">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -382,6 +383,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="veintiseis" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="veintiseis" />
+      <module name="Ejercicios Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="veintitres" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="veintitres" />
       <module name="Ejercicios Java" />
@@ -420,6 +428,7 @@
       <item itemvalue="Application.veintitres" />
       <item itemvalue="Application.veinticuatro" />
       <item itemvalue="Application.veinticinco" />
+      <item itemvalue="Application.veintiseis" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
@@ -441,12 +450,12 @@
       <workItem from="1556897782556" duration="5389000" />
       <workItem from="1557614016584" duration="279000" />
       <workItem from="1557680473925" duration="13399000" />
-      <workItem from="1557838509816" duration="13855000" />
+      <workItem from="1557838509816" duration="14316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32922000" />
+    <option name="totallyTimeSpent" value="33383000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -713,7 +722,14 @@
     <entry file="file://$PROJECT_DIR$/src/veinticinco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-end-line="23" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/veintiseis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
         </state>
       </provider>
     </entry>
