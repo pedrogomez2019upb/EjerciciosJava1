@@ -17,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trece.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="18" selection-start-line="23" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/catorce.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -95,16 +86,25 @@
         <entry file="file://$PROJECT_DIR$/src/veintitres.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="66" />
+              <caret line="18" column="29" selection-start-line="18" selection-end-line="18" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/veinticuatro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="30" selection-start-line="21" selection-end-line="21" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/veinticuatro.java">
+        <entry file="file://$PROJECT_DIR$/src/veinticinco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+            <state relative-caret-position="391">
+              <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -150,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/veintidos.java" />
         <option value="$PROJECT_DIR$/src/veintitres.java" />
         <option value="$PROJECT_DIR$/src/veinticuatro.java" />
+        <option value="$PROJECT_DIR$/src/veinticinco.java" />
       </list>
     </option>
   </component>
@@ -222,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.veinticuatro">
+  <component name="RunManager" selected="Application.veinticinco">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -360,6 +361,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="veinticinco" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="veinticinco" />
+      <module name="Ejercicios Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="veinticuatro" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="veinticuatro" />
       <module name="Ejercicios Java" />
@@ -411,6 +419,7 @@
       <item itemvalue="Application.veintidos" />
       <item itemvalue="Application.veintitres" />
       <item itemvalue="Application.veinticuatro" />
+      <item itemvalue="Application.veinticinco" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
@@ -432,12 +441,12 @@
       <workItem from="1556897782556" duration="5389000" />
       <workItem from="1557614016584" duration="279000" />
       <workItem from="1557680473925" duration="13399000" />
-      <workItem from="1557838509816" duration="13265000" />
+      <workItem from="1557838509816" duration="13855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32332000" />
+    <option name="totallyTimeSpent" value="32922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -690,14 +699,21 @@
     <entry file="file://$PROJECT_DIR$/src/veintitres.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="66" />
+          <caret line="18" column="29" selection-start-line="18" selection-end-line="18" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/veinticuatro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+          <caret line="21" column="30" selection-start-line="21" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/veinticinco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
         </state>
       </provider>
     </entry>
